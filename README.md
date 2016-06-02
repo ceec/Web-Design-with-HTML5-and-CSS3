@@ -5,8 +5,10 @@
 ### Class 1
 Bootstrap - http://getbootstrap.com/
 Notepad++ text editor - https://notepad-plus-plus.org/
-### Class 2
 
+### Class 2
+HTML Cheatsheet - http://www.simplehtmlguide.com/cheatsheet.php
+CSS Cheatsheet - http://www.lesliefranke.com/files/reference/csscheatsheet.html
 
 ### Homework
 Description: Build at least a 2 page HTML website from scratch using a text editor and browser
