@@ -10,6 +10,8 @@ Notepad++ text editor - https://notepad-plus-plus.org/
 ### Class 2
 HTML Cheatsheet - http://www.simplehtmlguide.com/cheatsheet.php
 
+HTML Special Characters - https://www.utexas.edu/learn/html/spchar.html
+
 CSS Cheatsheet - http://www.lesliefranke.com/files/reference/csscheatsheet.html
 
 ### Homework
