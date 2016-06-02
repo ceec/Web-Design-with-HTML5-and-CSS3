@@ -18,13 +18,14 @@ CSS Cheatsheet - http://www.lesliefranke.com/files/reference/csscheatsheet.html
 Description: Build at least a 2 page HTML website from scratch using a text editor and browser
 * Create a folder for your website
 * Create a subfolder for images
+* Create a subfolder for css
 * On each of the pages, include at least the following:
   * 2 headings
   * 3 paragraphs
   * 2 images
   * 1 list
-  * 1 CSS rule
-* On each page, use global structure
+  * 1 CSS class
+  * any fun things you want!
 * Add links between pages
 * Bring your entire folder with all HTML and images on a flash drive to class
 
