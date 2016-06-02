@@ -4,10 +4,12 @@
 
 ### Class 1
 Bootstrap - http://getbootstrap.com/
+
 Notepad++ text editor - https://notepad-plus-plus.org/
 
 ### Class 2
 HTML Cheatsheet - http://www.simplehtmlguide.com/cheatsheet.php
+
 CSS Cheatsheet - http://www.lesliefranke.com/files/reference/csscheatsheet.html
 
 ### Homework
