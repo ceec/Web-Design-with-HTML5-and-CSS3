@@ -29,4 +29,8 @@ Description: Build at least a 2 page HTML website from scratch using a text edit
 * Add links between pages
 * Bring your entire folder with all HTML and images on a flash drive to class
 
-## Week 2
+## Week 3
+Validators
+
+Web Validator - https://validator.w3.org/
+CSS Validator - https://jigsaw.w3.org/css-validator/
