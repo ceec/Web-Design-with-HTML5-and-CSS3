@@ -33,4 +33,5 @@ Description: Build at least a 2 page HTML website from scratch using a text edit
 Validators
 
 Web Validator - https://validator.w3.org/
+
 CSS Validator - https://jigsaw.w3.org/css-validator/
